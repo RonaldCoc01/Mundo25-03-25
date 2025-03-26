@@ -61,9 +61,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-03-26 07:22:59 +0000",
       "log_spam_fixer": "2025-03-25 03:05:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
