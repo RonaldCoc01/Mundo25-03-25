@@ -2855,3 +2855,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 21:00:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
 [26Mar2025 21:01:04.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> fue 2 de eficiencia 4 será
 [26Mar2025 21:01:09.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ya me canse xd
+[26Mar2025 21:01:17.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> sasajsajs
+[26Mar2025 21:01:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
+[26Mar2025 21:04:59.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:04:59.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:05:11.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 was slain by Vex
+[26Mar2025 21:05:16.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2328.500000, 189.500000, 278.500000]
+[26Mar2025 21:05:28.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 was slain by Vex
+[26Mar2025 21:05:32.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2328.500000, 189.500000, 278.500000]
+[26Mar2025 21:05:43.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 21:06:57.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Ice Bucket Challenge]
+[26Mar2025 21:07:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 21:07:27.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -877.500000, 50.500000, 61.500000]
+[26Mar2025 21:09:59.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:09:59.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:13:50.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
+[26Mar2025 21:14:59.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:14:59.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:15:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -877.500000, 50.500000, 61.500000]
+[26Mar2025 21:15:18.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Disconnected
+[26Mar2025 21:15:18.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
+[26Mar2025 21:17:45.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [We Need to Go Deeper]
+[26Mar2025 21:17:45.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Incendium]
+[26Mar2025 21:17:49.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[26Mar2025 21:17:49.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Strange Biomes]
+[26Mar2025 21:17:49.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Hellish Paradise]
+[26Mar2025 21:20:02.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:20:02.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:20:18.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/55547, l='ServerLevel[world]', x=208.46, y=36.00, z=-283.94] died: Sanctum Cultist burned to death
+[26Mar2025 21:20:25.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has reached the goal [An Illager Refuge?]
+[26Mar2025 21:20:42.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 21:20:54.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/55608, l='ServerLevel[world]', x=209.45, y=37.00, z=-271.94] died: Sanctum Cultist went up in flames
+[26Mar2025 21:21:20.514] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/55662, l='ServerLevel[world]', x=194.96, y=30.62, z=-293.07] died: Sanctum Cultist tried to swim in lava
+[26Mar2025 21:21:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [A Terrible Fortress]
