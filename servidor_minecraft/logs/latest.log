@@ -188,3 +188,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 07:10:31.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
 [26Mar2025 07:19:32.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon fell from a high place
 [26Mar2025 07:50:36.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has reached the goal [Hired Help]
+[26Mar2025 08:02:30.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon lost connection: Disconnected
+[26Mar2025 08:02:30.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
+[26Mar2025 08:02:39.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TeemoLimon[/100.112.202.90:49159] logged in with entity id 18018 at (-545.5619069005988, -8.0, -635.3000000119209)
+[26Mar2025 08:02:39.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon joined the game
+[26Mar2025 08:03:13.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon lost connection: Disconnected
+[26Mar2025 08:03:13.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
