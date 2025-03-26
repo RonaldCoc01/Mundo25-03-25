@@ -2888,3 +2888,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 21:20:54.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/55608, l='ServerLevel[world]', x=209.45, y=37.00, z=-271.94] died: Sanctum Cultist went up in flames
 [26Mar2025 21:21:20.514] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/55662, l='ServerLevel[world]', x=194.96, y=30.62, z=-293.07] died: Sanctum Cultist tried to swim in lava
 [26Mar2025 21:21:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [A Terrible Fortress]
+[26Mar2025 21:21:54.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 21:22:32.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Into Fire]
+[26Mar2025 21:23:42.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/55695, l='ServerLevel[world]', x=230.74, y=36.06, z=-279.74] died: Sanctum Cultist went up in flames
+[26Mar2025 21:25:02.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:25:02.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:25:32.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 21:30:02.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:30:02.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:33:56.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 21:35:02.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:35:02.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:37:47.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 was doomed to fall by Ravager
+[26Mar2025 21:40:02.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:40:02.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:45:02.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:45:02.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:50:02.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 21:50:02.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 21:50:36.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElGero120) moved wrongly! 0.31122066644638835
+[26Mar2025 21:50:36.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElGero120) moved wrongly! 0.4157446986528157
