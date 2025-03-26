@@ -194,3 +194,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 08:02:39.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon joined the game
 [26Mar2025 08:03:13.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon lost connection: Disconnected
 [26Mar2025 08:03:13.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
+[26Mar2025 08:22:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 08:22:24.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: anda duerme<--[HERE]
