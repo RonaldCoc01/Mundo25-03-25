@@ -162,3 +162,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 04:13:34.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon was slain by Zombie
 [26Mar2025 04:14:47.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> -905,72,66
 [26Mar2025 04:15:07.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to HaraGamiVT]
+[26Mar2025 04:21:29.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2405, l='ServerLevel[world]', x=-912.59, y=66.00, z=52.73] died, message: 'Villager was slain by Zombie'
+[26Mar2025 04:22:27.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Disconnected
+[26Mar2025 04:22:27.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
+[26Mar2025 04:22:27.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 lost connection: Disconnected
+[26Mar2025 04:22:27.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 left the game
+[26Mar2025 04:22:27.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon lost connection: Disconnected
+[26Mar2025 04:22:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
+[26Mar2025 04:22:27.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT lost connection: Disconnected
+[26Mar2025 04:22:27.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT left the game
+[26Mar2025 04:22:27.131] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43f05f20[id=<null>,name=HaraGamiVT,properties={},legacy=false] (/100.89.136.60:64262) lost connection: Disconnected
+[26Mar2025 04:22:27.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 57959ms or 1159 ticks behind
+[26Mar2025 04:22:29.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElGero120[/100.113.88.35:64170] logged in with entity id 11943 at (-1076.6717364797325, 70.49520087700593, 456.5063582236409)
+[26Mar2025 04:22:29.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 joined the game
+[26Mar2025 04:22:30.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HaraGamiVT[/100.89.136.60:64276] logged in with entity id 11944 at (-904.7665998474689, 72.0, 67.30367739034816)
+[26Mar2025 04:22:30.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT joined the game
+[26Mar2025 04:22:34.143] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@406b359[id=<null>,name=TeemoLimon,properties={},legacy=false] (/100.112.202.90:64179) lost connection: Disconnected
+[26Mar2025 04:22:54.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TeemoLimon[/100.112.202.90:64180] logged in with entity id 12470 at (-501.21593741841804, 8.0, -629.7426086662667)
+[26Mar2025 04:22:54.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon joined the game
+[26Mar2025 04:25:55.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RonaldPe25[/100.86.179.65:61819] logged in with entity id 13877 at (-904.2967279891633, 61.0, 14.166446425731397)
+[26Mar2025 04:25:55.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
+[26Mar2025 04:30:05.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> -905,72,67
+[26Mar2025 04:30:09.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xaero-waypoint:casa:C:-921:75:54:10:false:0:Internal-overworld-waypoints
