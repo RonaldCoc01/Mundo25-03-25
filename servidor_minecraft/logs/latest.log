@@ -184,3 +184,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 04:25:55.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
 [26Mar2025 04:30:05.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> -905,72,67
 [26Mar2025 04:30:09.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xaero-waypoint:casa:C:-921:75:54:10:false:0:Internal-overworld-waypoints
+[26Mar2025 04:33:46.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [A Terrible Fortress]
+[26Mar2025 04:36:59.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12257, l='ServerLevel[world]', x=-898.78, y=67.00, z=52.70] died, message: 'Villager was slain by Zombie'
+[26Mar2025 04:38:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon has made the advancement [Into Fire]
+[26Mar2025 04:40:50.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12004, l='ServerLevel[world]', x=-885.70, y=78.00, z=88.62] died, message: 'Villager was slain by Zombie'
+[26Mar2025 04:43:57.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Timed out
+[26Mar2025 04:43:57.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
+[26Mar2025 04:46:19.717] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/22525, l='ServerLevel[world]', x=-919.50, y=5.00, z=56.50]
+[26Mar2025 04:46:19.718] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/22526, l='ServerLevel[world]', x=-917.50, y=4.00, z=58.50]
+[26Mar2025 04:46:24.870] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/22564, l='ServerLevel[world]', x=-915.50, y=3.00, z=62.50]
+[26Mar2025 04:46:28.617] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/22586, l='ServerLevel[world]', x=-921.50, y=6.00, z=54.50]
+[26Mar2025 04:46:28.618] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/22587, l='ServerLevel[world]', x=-919.50, y=5.00, z=55.50]
+[26Mar2025 04:49:25.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RonaldPe25[/100.86.179.65:49942] logged in with entity id 23893 at (-1140.699999988079, 90.0, 46.283466400249154)
+[26Mar2025 04:49:25.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
+[26Mar2025 04:50:08.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2373.500000, 63.500000, 1.500000]
+[26Mar2025 04:50:08.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[26Mar2025 04:50:08.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved too quickly! -0.06595288115626374,0.0,-10.100714985757179
+[26Mar2025 04:50:08.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT moved too quickly! 8.201522666821916,1.0724278036804442,-5.797663742558413
+[26Mar2025 04:52:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon was burnt to a crisp whilst fighting Blaze
+[26Mar2025 04:55:53.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[26Mar2025 04:56:48.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 04:57:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
