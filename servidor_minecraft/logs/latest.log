@@ -445,3 +445,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 21:37:47.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 was doomed to fall by Ravager
 [26Mar2025 21:50:36.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElGero120) moved wrongly! 0.31122066644638835
 [26Mar2025 21:50:36.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElGero120) moved wrongly! 0.4157446986528157
+[26Mar2025 21:52:42.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 was killed by Evoker using magic
+[26Mar2025 21:59:01.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
