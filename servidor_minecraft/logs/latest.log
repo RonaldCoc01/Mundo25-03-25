@@ -334,3 +334,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 06:12:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> meteles camas
 [26Mar2025 06:14:06.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
 [26Mar2025 06:14:23.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
+[26Mar2025 06:19:02.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 06:21:28.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 06:24:33.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Flexible Schedule]
+[26Mar2025 06:25:36.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Disconnected
+[26Mar2025 06:25:36.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
+[26Mar2025 06:25:45.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RonaldPe25[/100.86.179.65:50759] logged in with entity id 103134 at (-2378.9371790495184, 221.5, -2.7588959085519127)
+[26Mar2025 06:25:45.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
+[26Mar2025 06:26:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
+[26Mar2025 06:26:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 06:26:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> warden xd
+[26Mar2025 06:27:05.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 was doomed to fall by Ravager
+[26Mar2025 06:27:15.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 06:27:15.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> ahhhhh son los discos
+[26Mar2025 06:27:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2377.500000, 191.500000, 0.500000]
+[26Mar2025 06:27:57.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 06:28:06.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Spectator Mode]
+[26Mar2025 06:28:15.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 06:29:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 06:30:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 06:31:02.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 06:31:09.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ was slain by Murmur
+[26Mar2025 06:31:15.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> que es eso? xD
+[26Mar2025 06:31:30.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> xDDDDDDDDDDDDDDDDDD
+[26Mar2025 06:34:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ was blown up by Creeper
+[26Mar2025 06:34:25.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set _ArKaiseR_'s game mode to Spectator Mode]
+[26Mar2025 06:34:53.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set _ArKaiseR_'s game mode to Survival Mode]
+[26Mar2025 06:35:58.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Sweet Dreams]
+[26Mar2025 06:36:03.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ArKaiseR_ lost connection: Disconnected
+[26Mar2025 06:36:03.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ left the game
+[26Mar2025 06:36:04.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 06:36:14.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Disconnected
+[26Mar2025 06:36:14.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
+[26Mar2025 06:42:51.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 lost connection: Disconnected
+[26Mar2025 06:42:51.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 left the game
