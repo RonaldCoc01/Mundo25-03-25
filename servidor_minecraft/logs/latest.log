@@ -205,3 +205,108 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 04:55:53.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon burned to death
 [26Mar2025 04:56:48.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
 [26Mar2025 04:57:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 05:06:56.828] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [framework:play,curios:main,geckolib:main,framework:handshake] rejected their client side version number
+[26Mar2025 05:06:56.829] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Mar2025 05:06:56.879] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c8fa191[id=<null>,name=_ArKaiseR_,properties={},legacy=false] (/100.114.250.31:60955) lost connection: Connection closed - mismatched mod channel list
+[26Mar2025 05:09:03.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT moved wrongly!
+[26Mar2025 05:09:37.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ArKaiseR_[/100.114.250.31:61110] logged in with entity id 35306 at (2.5, 84.0, -4.5)
+[26Mar2025 05:09:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ joined the game
+[26Mar2025 05:09:59.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=93, z=-3}
+[26Mar2025 05:09:59.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=93, z=-3}
+[26Mar2025 05:10:01.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=92, z=-8}
+[26Mar2025 05:11:44.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Stone Age]
+[26Mar2025 05:12:03.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Getting an Upgrade]
+[26Mar2025 05:13:10.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 05:13:10.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficilt hard<--[HERE]
+[26Mar2025 05:14:59.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Monster Hunter]
+[26Mar2025 05:16:22.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> duerman ps
+[26Mar2025 05:16:30.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> estoy leos
+[26Mar2025 05:16:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> lejos
+[26Mar2025 05:16:38.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> X2
+[26Mar2025 05:17:14.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Crops of the Wild]
+[26Mar2025 05:17:19.251] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[26Mar2025 05:17:19.253] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[26Mar2025 05:18:07.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> -905,72,68
+[26Mar2025 05:18:56.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 05:20:33.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT moved wrongly!
+[26Mar2025 05:21:38.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 05:21:38.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
+[26Mar2025 05:26:26.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT moved wrongly!
+[26Mar2025 05:27:54.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT lost connection: Disconnected
+[26Mar2025 05:27:54.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT left the game
+[26Mar2025 05:29:37.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=37, z=9} BlockPos{x=-3, y=48, z=-8}
+[26Mar2025 05:30:07.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -920.500000, 75.500000, 54.500000]
+[26Mar2025 05:30:11.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 05:30:35.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElGero120> xaero-waypoint:Shared Location:S:-682:98:91:0:false:0:Internal-overworld-waypoints
+[26Mar2025 05:33:44.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 05:33:50.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 lost connection: Disconnected
+[26Mar2025 05:33:50.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 left the game
+[26Mar2025 05:34:37.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 05:34:45.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 05:35:50.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Acquire Hardware]
+[26Mar2025 05:36:28.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Suit Up]
+[26Mar2025 05:37:10.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Voluntary Exile]
+[26Mar2025 05:38:50.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Isn't It Iron Pick]
+[26Mar2025 05:38:55.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -681.500000, 98.500000, 91.500000]
+[26Mar2025 05:40:08.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 05:40:22.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 05:43:12.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2373.500000, 63.500000, 1.500000]
+[26Mar2025 05:44:10.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 fell from a high place
+[26Mar2025 05:44:17.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2378.500000, 62.500000, 2.500000]
+[26Mar2025 05:45:55.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ArKaiseR_ moved too quickly! -0.6429951858010412,-11.194885754619964,-1.8959910383935927
+[26Mar2025 05:46:12.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Diamonds!]
+[26Mar2025 05:46:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 05:47:07.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 05:47:15.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElGero120[/100.113.88.35:51057] logged in with entity id 75785 at (-982.5097084991365, 63.0, 427.2926022682832)
+[26Mar2025 05:47:15.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 joined the game
+[26Mar2025 05:48:12.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=-36, z=-21} BlockPos{x=-14, y=-41, z=2}
+[26Mar2025 05:48:12.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=-36, z=-21} BlockPos{x=-13, y=-41, z=2}
+[26Mar2025 05:48:20.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 moved wrongly!
+[26Mar2025 05:48:55.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=-36, z=-21} BlockPos{x=-13, y=-41, z=2}
+[26Mar2025 05:49:05.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 was doomed to fall by Ravager
+[26Mar2025 05:49:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2377.500000, 191.500000, 0.500000]
+[26Mar2025 05:49:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 was slain by Vindicator
+[26Mar2025 05:49:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 05:49:29.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2377.500000, 191.500000, 0.500000]
+[26Mar2025 05:49:47.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=-36, z=-21} BlockPos{x=-13, y=-40, z=2}
+[26Mar2025 05:49:49.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=-36, z=-21} BlockPos{x=-13, y=-40, z=2}
+[26Mar2025 05:50:01.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Not Today, Thank You]
+[26Mar2025 05:50:08.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=-36, z=-21} BlockPos{x=-3, y=-44, z=-6}
+[26Mar2025 05:50:08.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=-36, z=-21} BlockPos{x=-4, y=-44, z=-6}
+[26Mar2025 05:50:26.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Sculk Cymbal]
+[26Mar2025 05:50:26.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Take Aim]
+[26Mar2025 05:50:27.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/76526, l='ServerLevel[world]', x=-900.35, y=64.00, z=49.47] died, message: 'Butcher hit the ground too hard'
+[26Mar2025 05:51:00.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-30, y=-36, z=-21} BlockPos{x=7, y=-43, z=-3}
+[26Mar2025 05:51:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 05:51:14.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _ArKaiseR_ lost connection: Disconnected
+[26Mar2025 05:51:14.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ left the game
+[26Mar2025 05:51:39.429] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25861d3c[id=<null>,name=_ArKaiseR_,properties={},legacy=false] (/100.114.250.31:61449) lost connection: Disconnected
+[26Mar2025 05:51:44.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ArKaiseR_[/100.114.250.31:61468] logged in with entity id 79305 at (-10.504960768191454, -43.0, 9.019378044371177)
+[26Mar2025 05:51:44.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ joined the game
+[26Mar2025 05:51:57.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=-40, z=2}
+[26Mar2025 05:52:00.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Ol' Betsy]
+[26Mar2025 05:52:12.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-13, y=-41, z=2}
+[26Mar2025 05:52:12.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-14, y=-41, z=2}
+[26Mar2025 05:52:12.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-15, y=-42, z=3}
+[26Mar2025 05:52:12.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-14, y=-42, z=2}
+[26Mar2025 05:52:12.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-12, y=-40, z=2}
+[26Mar2025 05:52:13.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-13, y=-40, z=2}
+[26Mar2025 05:52:13.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-13, y=-41, z=2}
+[26Mar2025 05:52:13.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-14, y=-42, z=2}
+[26Mar2025 05:52:13.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-12, y=-41, z=1}
+[26Mar2025 05:52:13.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-12, y=-40, z=2}
+[26Mar2025 05:52:13.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=-49, z=21} BlockPos{x=-13, y=-40, z=2}
+[26Mar2025 05:52:59.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=-49, z=20} BlockPos{x=0, y=-47, z=11}
+[26Mar2025 05:53:38.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=-49, z=20} BlockPos{x=-13, y=-41, z=2}
+[26Mar2025 05:53:39.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 05:53:50.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=-49, z=20} BlockPos{x=7, y=-51, z=12}
+[26Mar2025 05:54:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 05:56:42.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
+[26Mar2025 05:57:44.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[26Mar2025 05:58:11.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
+[26Mar2025 06:01:23.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -920.500000, 75.500000, 54.500000]
+[26Mar2025 06:01:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[26Mar2025 06:02:38.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
+[26Mar2025 06:03:05.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Take Aim]
+[26Mar2025 06:03:17.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Voluntary Exile]
+[26Mar2025 06:04:13.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> donde estan?
