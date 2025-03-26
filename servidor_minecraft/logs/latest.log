@@ -163,3 +163,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [26Mar2025 17:27:51.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set the time to 1000]
 [26Mar2025 17:31:47.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set the time to 1000]
 [26Mar2025 17:41:24.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set the time to 1000]
+[26Mar2025 17:55:19.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set the weather to clear]
+[26Mar2025 17:55:22.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set the time to 1000]
