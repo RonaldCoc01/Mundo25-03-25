@@ -644,6 +644,7 @@
       "bread": "2025-03-26 06:13:01 +0000",
       "golden_apple": "2025-03-26 04:52:22 +0000",
       "rotten_flesh": "2025-03-25 19:50:34 +0000",
+      "beetroot": "2025-03-26 07:39:10 +0000",
       "cooked_chicken": "2025-03-25 21:10:41 +0000",
       "carrot": "2025-03-25 20:47:36 +0000"
     },
@@ -4452,9 +4453,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-26 07:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-03-26 07:37:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-03-26 07:03:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-03-26 07:37:58 +0000"
     },
     "done": true
   },
