@@ -3139,6 +3139,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-03-27 23:32:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-03-27 21:16:02 +0000"
@@ -3166,6 +3172,12 @@
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-03-27 21:16:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-03-27 23:32:31 +0000"
     },
     "done": true
   },
