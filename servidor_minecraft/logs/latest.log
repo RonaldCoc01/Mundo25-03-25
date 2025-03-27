@@ -221,3 +221,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Mar2025 20:08:10.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
 [27Mar2025 20:09:42.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: The difficulty has been set to Hard]
 [27Mar2025 20:09:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 has made the advancement [Hot Stuff]
+[27Mar2025 20:18:27.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! -1.4783618586991452,-0.2169639631967044,-10.18562859467454
+[27Mar2025 20:19:27.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
+[27Mar2025 20:22:58.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved wrongly!
+[27Mar2025 20:23:47.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> bruno tienes granjeros?
+[27Mar2025 20:23:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> aldeanos
+[27Mar2025 20:23:55.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> zi
+[27Mar2025 20:23:59.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> nice
+[27Mar2025 20:24:00.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> voy
+[27Mar2025 20:24:23.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 moved too quickly! -0.017782987060854794,0.2632227940464986,-10.218084449758607
+[27Mar2025 20:25:00.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Disconnected
+[27Mar2025 20:25:00.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
+[27Mar2025 20:25:00.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
