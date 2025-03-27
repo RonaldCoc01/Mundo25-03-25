@@ -45,9 +45,11 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-03-26 05:09:49 +0000",
       "minecraft:birch_forest": "2025-03-27 05:35:38 +0000",
+      "minecraft:beach": "2025-03-27 21:23:37 +0000",
       "minecraft:dark_forest": "2025-03-27 21:07:41 +0000",
       "minecraft:river": "2025-03-26 05:55:58 +0000",
       "minecraft:dripstone_caves": "2025-03-26 05:15:24 +0000",
+      "minecraft:swamp": "2025-03-27 21:24:30 +0000",
       "minecraft:forest": "2025-03-26 05:10:23 +0000",
       "minecraft:lush_caves": "2025-03-27 21:15:32 +0000",
       "minecraft:windswept_forest": "2025-03-27 21:17:38 +0000",
@@ -3089,6 +3091,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-27 21:35:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-27 21:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-03-27 21:16:02 +0000"
@@ -3122,6 +3136,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-03-27 21:16:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-27 21:28:46 +0000"
     },
     "done": true
   },
