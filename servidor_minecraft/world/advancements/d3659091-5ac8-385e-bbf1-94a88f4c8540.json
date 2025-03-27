@@ -49,12 +49,14 @@
       "minecraft:cherry_grove": "2025-03-24 20:16:58 +0000",
       "minecraft:sunflower_plains": "2025-03-26 20:35:47 +0000",
       "minecraft:birch_forest": "2025-03-24 20:31:19 +0000",
+      "minecraft:windswept_hills": "2025-03-27 06:29:27 +0000",
       "minecraft:beach": "2025-03-25 18:41:11 +0000",
       "minecraft:dark_forest": "2025-03-24 20:31:24 +0000",
       "minecraft:river": "2025-03-24 20:31:06 +0000",
       "minecraft:dripstone_caves": "2025-03-25 03:28:55 +0000",
       "minecraft:swamp": "2025-03-25 18:40:02 +0000",
       "minecraft:forest": "2025-03-24 20:30:57 +0000",
+      "minecraft:lush_caves": "2025-03-27 06:46:03 +0000",
       "minecraft:windswept_forest": "2025-03-25 05:02:42 +0000",
       "minecraft:ocean": "2025-03-25 18:41:15 +0000",
       "minecraft:windswept_savanna": "2025-03-25 18:39:50 +0000",
@@ -250,6 +252,7 @@
       "minecraft:evoker": "2025-03-26 18:50:34 +0000",
       "minecraft:witch": "2025-03-26 18:50:38 +0000",
       "minecraft:enderman": "2025-03-27 05:10:37 +0000",
+      "minecraft:silverfish": "2025-03-27 06:47:11 +0000",
       "minecraft:zombie": "2025-03-25 03:24:54 +0000",
       "minecraft:drowned": "2025-03-25 18:33:50 +0000",
       "minecraft:zombie_villager": "2025-03-25 04:20:32 +0000"
@@ -3766,33 +3769,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
-      "has_magma_cream": "2025-03-27 05:52:01 +0000"
+      "has_bow": "2025-03-27 04:58:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_smooth_quartz": "2025-03-27 06:02:57 +0000"
+      "has_bow": "2025-03-27 04:58:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_smooth_quartz": "2025-03-27 06:02:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-03-27 05:37:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-03-27 05:47:05 +0000"
+      "shot_arrow": "2025-03-27 05:28:56 +0000"
     },
     "done": true
   },
@@ -3802,9 +3793,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "shot_arrow": "2025-03-27 05:28:56 +0000"
+      "has_blaze_rod": "2025-03-27 05:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-27 05:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-27 05:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-27 05:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-27 05:37:18 +0000"
     },
     "done": true
   },
@@ -3820,57 +3835,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-03-27 05:43:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-27 05:37:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-03-27 05:37:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-03-27 05:43:00 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-03-27 05:47:29 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/torte/root": {
-    "criteria": {
-      "requirement": "2025-03-27 05:45:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-03-27 06:02:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-03-27 05:37:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-03-27 04:58:34 +0000"
     },
     "done": true
   },
@@ -3886,27 +3859,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-03-27 04:58:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-03-27 05:37:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-27 05:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-03-27 05:36:29 +0000"
     },
     "done": true
   },
@@ -3922,9 +3877,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-27 05:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-27 05:43:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/torte/root": {
+    "criteria": {
+      "requirement": "2025-03-27 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-27 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-27 05:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-27 05:52:01 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/ghast_buster": {
     "criteria": {
       "kill_ghast": "2025-03-27 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-27 06:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-27 06:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-27 06:02:57 +0000"
     },
     "done": true
   },
@@ -3934,9 +3943,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_blaze_rod": "2025-03-27 05:36:29 +0000"
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-27 07:03:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-27 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-27 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-27 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-27 06:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-27 06:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-27 06:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-27 06:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-27 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-27 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-27 06:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-27 06:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-27 06:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-27 06:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-27 06:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-27 06:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-27 06:45:37 +0000"
     },
     "done": true
   },
