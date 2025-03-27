@@ -703,6 +703,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-25 03:17:21 +0000",
       "cooked_mutton": "2025-03-25 04:36:33 +0000",
+      "cooked_beef": "2025-03-27 03:56:58 +0000",
       "baked_potato": "2025-03-25 21:01:53 +0000",
       "apple": "2025-03-25 19:38:42 +0000",
       "golden_apple": "2025-03-26 04:37:44 +0000",
@@ -3346,6 +3347,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-26 05:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-27 03:59:52 +0000"
     },
     "done": true
   },

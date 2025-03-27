@@ -883,6 +883,9 @@
       "cooked_porkchop": "2025-03-26 05:17:33 +0000",
       "cooked_mutton": "2025-03-26 05:36:50 +0000",
       "cooked_beef": "2025-03-26 05:53:12 +0000",
+      "porkchop": "2025-03-27 04:05:51 +0000",
+      "potato": "2025-03-27 04:06:07 +0000",
+      "mutton": "2025-03-27 04:05:26 +0000",
       "bread": "2025-03-26 05:26:00 +0000",
       "glow_berries": "2025-03-27 03:49:15 +0000"
     },
@@ -2076,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-27 04:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-27 03:40:24 +0000"
@@ -2094,15 +2103,33 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-27 03:54:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-27 03:40:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-27 04:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-03-27 03:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-27 04:06:35 +0000"
     },
     "done": true
   },
@@ -2130,9 +2157,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-27 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-27 03:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-03-27 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-27 04:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-27 03:55:33 +0000"
     },
     "done": true
   },
