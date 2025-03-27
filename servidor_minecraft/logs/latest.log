@@ -192,3 +192,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Mar2025 21:35:03.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Mine? Mine? Mine?]
 [27Mar2025 21:40:41.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Odd Looking Rocks]
 [27Mar2025 21:40:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Unusual Prehistory]
+[27Mar2025 22:05:06.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Mar2025 22:05:06.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: difficult hard<--[HERE]
+[27Mar2025 22:10:36.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [The Cutest Predator]
+[27Mar2025 22:12:55.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=9, z=394} BlockPos{x=-1347, y=12, z=394}
+[27Mar2025 22:12:55.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=9, z=394} BlockPos{x=-1347, y=12, z=394}
+[27Mar2025 22:12:55.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1347, y=9, z=395} BlockPos{x=-1347, y=12, z=394}

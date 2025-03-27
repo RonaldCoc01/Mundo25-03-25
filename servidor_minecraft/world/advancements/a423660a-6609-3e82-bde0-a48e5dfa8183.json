@@ -3091,6 +3091,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-27 22:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:main/root": {
     "criteria": {
       "acquired_encyclopedia": "2025-03-27 21:40:59 +0000"
@@ -3108,6 +3114,12 @@
       "has_diamond_backpack": "2025-03-27 21:22:35 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-03-27 22:12:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
@@ -3148,6 +3160,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-03-27 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-03-27 22:10:36 +0000"
     },
     "done": true
   },
