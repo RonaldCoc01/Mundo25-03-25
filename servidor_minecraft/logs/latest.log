@@ -151,3 +151,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Mar2025 03:10:54.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set the weather to clear]
 [27Mar2025 03:18:03.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HaraGamiVT[/100.89.136.60:53299] logged in with entity id 2131 at (-909.2334261630616, 92.0, 73.0138468509675)
 [27Mar2025 03:18:03.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT joined the game
+[27Mar2025 03:26:56.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT tried to swim in lava
+[27Mar2025 03:27:04.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> a
+[27Mar2025 03:27:16.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> me acaba de matar un super escorpión
+[27Mar2025 03:27:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> me metio debajo de la lava
+[27Mar2025 03:27:31.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> estás en el nether?
+[27Mar2025 03:27:38.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> nop, estaba en una cueva
+[27Mar2025 03:28:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> avisas si necesitas ayuda
+[27Mar2025 03:28:35.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> una pregunta, el cadaver sigue intactato en lava?
+[27Mar2025 03:28:39.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> sip
+[27Mar2025 03:28:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> uuuff menos mal,gracias
+[27Mar2025 03:30:18.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ArKaiseR_[/100.114.250.31:56145] logged in with entity id 6634 at (160.59213761730246, -40.4375, -355.01492962821055)
+[27Mar2025 03:30:18.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ joined the game
+[27Mar2025 03:30:44.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Cover Me with Diamonds]
