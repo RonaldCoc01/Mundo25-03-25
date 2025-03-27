@@ -2489,3 +2489,167 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Mar2025 20:25:00.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [27Mar2025 20:25:56.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Mar2025 20:25:56.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 20:27:31.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 8.547204486654778,-1.8907060592709968E-6,-5.403819121052038
+[27Mar2025 20:27:31.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 9.121791252434718,-2.0167465208942303E-6,-5.751940009118243
+[27Mar2025 20:27:31.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 9.696147030580505,-2.142786570402677E-6,-6.0986921448266
+[27Mar2025 20:27:31.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 10.270160403881846,-2.2688262362180467E-6,-6.444099224408546
+[27Mar2025 20:27:31.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 10.843698956782532,-2.394865560972903E-6,-6.788170366007762
+[27Mar2025 20:27:31.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 11.416637059005211,-2.5209045730889557E-6,-7.130918743248458
+[27Mar2025 20:27:31.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 11.988858706704377,-2.6469433151987687E-6,-7.4723557887846255
+[27Mar2025 20:27:31.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 12.560253371115436,-2.772981801513197E-6,-7.812496791826561
+[27Mar2025 20:27:31.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 13.130688986459631,-2.8990200604539496E-6,-8.151344219991188
+[27Mar2025 20:27:31.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 13.700043285944389,-3.0250581204427363E-6,-8.488900573258434
+[27Mar2025 20:27:31.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 14.268227032535151,-3.1510959956904117E-6,-8.825188963930486
+[27Mar2025 20:27:31.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 14.835124602861129,-3.277133714618685E-6,-9.160224113734785
+[27Mar2025 20:27:31.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 15.400602415286585,-3.403171277227557E-6,-9.494003167063966
+[27Mar2025 20:27:31.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 15.964563991024761,-3.529208711938736E-6,-9.826539550676898
+[27Mar2025 20:27:31.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 16.52691687134825,-3.6552460329630776E-6,-10.15785057651965
+[27Mar2025 20:27:31.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 17.087545712317592,-3.7812832403005814E-6,-10.487940737693407
+[27Mar2025 20:27:31.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 17.646341174278405,-3.907320348162102E-6,-10.81681884296313
+[27Mar2025 20:27:31.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 18.203226279092064,-4.033357370758495E-6,-11.144513618868586
+[27Mar2025 20:27:31.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 18.758100240020894,-4.1593943223006136E-6,-11.47103948972972
+[27Mar2025 20:27:31.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 19.310867427731182,-4.285431202788459E-6,-11.79641386394269
+[27Mar2025 20:27:31.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 19.8614103038891,-4.411468012222031E-6,-12.120640584199009
+[27Mar2025 20:27:31.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 20.40964753683511,-4.5375047648121836E-6,-12.443739045354505
+[27Mar2025 20:27:31.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 20.955501636093345,-4.663541474769772E-6,-12.765730778003217
+[27Mar2025 20:27:31.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 21.498871407952038,-4.789578127883942E-6,-13.086623893237629
+[27Mar2025 20:27:31.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 22.039688309847975,-4.915614738365548E-6,-13.40644547949205
+[27Mar2025 20:27:31.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 22.577859606573497,-5.041651320425444E-6,-13.725208367809955
+[27Mar2025 20:27:31.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 23.11329799703003,-5.1676878598527765E-6,-14.042927436894388
+[27Mar2025 20:27:31.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 23.645947318730805,-5.293724370858399E-6,-14.359636579896687
+[27Mar2025 20:27:31.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 24.17572968944694,-5.4197608534423125E-6,-14.675349226192793
+[27Mar2025 20:27:31.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 24.702568593796627,-5.545797321815371E-6,-14.990085490543152
+[27Mar2025 20:27:31.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 25.226391396707072,-5.67183376176672E-6,-15.303867331950642
+[27Mar2025 20:27:31.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 25.74713222257094,-5.797870187507215E-6,-15.616713228948356
+[27Mar2025 20:27:31.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 26.264728389731772,-5.923906584826E-6,-15.928643406268293
+[27Mar2025 20:27:31.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 26.77912024971465,-6.04994296793393E-6,-16.239679505752974
+[27Mar2025 20:27:31.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 27.290226950476836,-6.175979336831006E-6,-16.549823817600554
+[27Mar2025 20:27:31.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 27.797999185152435,-6.3020156915172265E-6,-16.85909776239305
+[27Mar2025 20:27:31.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 28.30238935219063,-6.428052031992593E-6,-17.167524493383553
+[27Mar2025 20:27:31.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 28.803352145248937,-6.554088372467959E-6,-17.475127597463597
+[27Mar2025 20:27:31.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 29.30084388149055,-6.68012469873247E-6,-17.781931844924202
+[27Mar2025 20:27:31.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 21.82207844693005,-5.041495882096569E-6,-13.033967467486946
+[27Mar2025 20:27:41.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 22.311480484400022,-5.167532194150226E-6,-13.340831895951396
+[27Mar2025 20:27:41.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 22.79557366052643,-5.293568491993028E-6,-13.649488435959029
+[27Mar2025 20:27:41.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 23.273239362559366,-5.41960478983583E-6,-13.9614366707101
+[27Mar2025 20:27:41.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 23.743212932639608,-5.5456410734677775E-6,-14.278226628504854
+[27Mar2025 20:27:41.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 24.204377764198853,-5.671677357099725E-6,-14.601062093515338
+[27Mar2025 20:27:41.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 24.65602185832654,-5.797713640731672E-6,-14.930536108472552
+[27Mar2025 20:28:15.978] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:28:30.278] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:28:52.062] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:29:29.926] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:30:05.682] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:30:08.763] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:30:17.078] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:30:30.168] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:30:36.754] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:30:39.695] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:30:41.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:30:52.359] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:31:08.079] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:31:32.963] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[27Mar2025 20:27:41.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of TeemoLimon) moved too quickly! 25.09775433437585,-5.923749910152765E-6,-15.266812108674458
+[27Mar2025 20:32:14.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 273785ms or 5475 ticks behind
+[27Mar2025 20:28:41.172] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[27Mar2025 20:32:14.958] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[27Mar2025 20:32:16.146] [Server Watchdog/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: Could not initialize class oshi.SystemInfo
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: com/sun/jna/Platform [in thread "main"]
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[27Mar2025 20:32:16.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElGero120 lost connection: Disconnected
+[27Mar2025 20:32:16.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElGero120 left the game
+[27Mar2025 20:32:16.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon lost connection: Disconnected
+[27Mar2025 20:32:16.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon left the game
+[27Mar2025 20:32:16.270] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15cabae2[id=<null>,name=ElGero120,properties={},legacy=false] (/100.113.88.35:49922) lost connection: Disconnected
+[27Mar2025 20:32:16.271] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@bc24ab0[id=<null>,name=TeemoLimon,properties={},legacy=false] (/100.112.202.90:53916) lost connection: Disconnected
+[27Mar2025 20:32:16.273] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25657633[id=<null>,name=ElGero120,properties={},legacy=false] (/100.113.88.35:49947) lost connection: Disconnected
+[27Mar2025 20:32:16.275] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6128072e[id=<null>,name=ElGero120,properties={},legacy=false] (/100.113.88.35:49968) lost connection: Disconnected
+[27Mar2025 20:32:16.279] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55270cac[id=<null>,name=TeemoLimon,properties={},legacy=false] (/100.112.202.90:53930) lost connection: Disconnected
+[27Mar2025 20:32:16.280] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ca95b72[id=<null>,name=ElGero120,properties={},legacy=false] (/100.113.88.35:50004) lost connection: Disconnected
+[27Mar2025 20:32:16.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4273683a[id=<null>,name=ElGero120,properties={},legacy=false] (/100.113.88.35:50015) lost connection: Disconnected
+[27Mar2025 20:32:16.283] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6343062d[id=<null>,name=RonaldPe25,properties={},legacy=false] (/100.86.179.65:49949) lost connection: Disconnected
+[27Mar2025 20:32:16.286] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e6c2485[id=<null>,name=RonaldPe25,properties={},legacy=false] (/100.86.179.65:49953) lost connection: Disconnected
+[27Mar2025 20:32:16.286] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8189cf1[id=<null>,name=TeemoLimon,properties={},legacy=false] (/100.112.202.90:53933) lost connection: Disconnected
+[27Mar2025 20:32:16.289] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51f31770[id=<null>,name=ElGero120,properties={},legacy=false] (/100.113.88.35:50113) lost connection: Disconnected
+[27Mar2025 20:32:16.289] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2afa110d[id=<null>,name=RonaldPe25,properties={},legacy=false] (/100.86.179.65:49960) lost connection: Disconnected
+[27Mar2025 20:32:16.289] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45dd40db[id=<null>,name=RonaldPe25,properties={},legacy=false] (/100.86.179.65:49970) lost connection: Disconnected
+[27Mar2025 20:32:16.290] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9eeb385[id=<null>,name=TeemoLimon,properties={},legacy=false] (/100.112.202.90:53940) lost connection: Timed out
+[27Mar2025 20:32:16.351] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e4b80c69-0b2a-469f-b7a2-10bc90e2666e
+[27Mar2025 20:32:16.401] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID b711c7ec-411a-4514-8b01-b82f1b5e0042
+[27Mar2025 20:32:16.404] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Mundo25-03-25/servidor_minecraft/./crash-reports/crash-2025-03-27_20.32.16-server.txt
+[27Mar2025 20:32:16.451] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[27Mar2025 20:32:16.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Mar2025 20:32:16.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Mar2025 20:32:16.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Mar2025 20:32:18.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Mar2025 20:32:24.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Mar2025 20:32:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Mar2025 20:32:24.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 20:32:24.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 20:32:24.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Mar2025 20:32:24.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Mar2025 20:32:24.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Mar2025 20:32:24.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Mar2025 20:32:24.121] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Mar2025 20:32:24.122] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Mundo25-03-25/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2356!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23129!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23146!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Mar2025 20:32:24.122] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27Mar2025 20:32:24.125] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[27Mar2025 20:32:24.125] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
