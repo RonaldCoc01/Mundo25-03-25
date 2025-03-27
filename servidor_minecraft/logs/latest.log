@@ -1,23 +1,23 @@
-[27Mar2025 03:01:47.856] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[27Mar2025 03:01:47.862] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[27Mar2025 03:01:48.929] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[27Mar2025 03:01:48.944] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[27Mar2025 03:01:48.946] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Mundo25-03-25/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23118!/
-[27Mar2025 03:01:48.952] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Mundo25-03-25/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[27Mar2025 03:01:48.954] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[27Mar2025 03:01:49.033] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundo25-03-25/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[27Mar2025 03:01:49.045] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[27Mar2025 03:01:49.405] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 03:01:49.407] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 03:01:49.408] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 03:01:49.409] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 03:01:49.626] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[27Mar2025 03:01:50.315] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[27Mar2025 03:01:50.330] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[27Mar2025 03:01:51.156] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[27Mar2025 03:01:52.302] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[27Mar2025 03:01:52.349] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[27Mar2025 03:01:53.997] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[27Mar2025 04:56:03.382] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[27Mar2025 04:56:03.386] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[27Mar2025 04:56:04.315] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[27Mar2025 04:56:04.328] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[27Mar2025 04:56:04.330] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/Mundo25-03-25/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23118!/
+[27Mar2025 04:56:04.337] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/Mundo25-03-25/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[27Mar2025 04:56:04.339] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[27Mar2025 04:56:04.401] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundo25-03-25/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[27Mar2025 04:56:04.412] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[27Mar2025 04:56:04.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[27Mar2025 04:56:04.686] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Mar2025 04:56:04.687] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Mar2025 04:56:04.688] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[27Mar2025 04:56:04.852] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[27Mar2025 04:56:05.464] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[27Mar2025 04:56:05.477] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[27Mar2025 04:56:06.404] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[27Mar2025 04:56:07.370] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Mar2025 04:56:07.402] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[27Mar2025 04:56:08.626] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
@@ -47,34 +47,33 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[27Mar2025 03:02:03.074] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[27Mar2025 03:02:03.075] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[27Mar2025 03:02:05.560] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Mundo25-03-25/servidor_minecraft/config/unusualprehistory-common.toml is not correct. Correcting
-[27Mar2025 03:02:05.562] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brachi_sound_volume was corrected from 3.0 to its default, 3.0. 
-[27Mar2025 03:02:05.563] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brachi_teen_sound_volume was corrected from 1.5 to its default, 1.5. 
-[27Mar2025 03:02:05.564] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rex_sound_volume was corrected from 0.5 to its default, 0.5. 
-[27Mar2025 03:02:05.566] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Mundo25-03-25/servidor_minecraft/config/unusualprehistory-common.toml is not correct. Correcting
-[27Mar2025 03:02:06.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[27Mar2025 03:02:06.639] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[27Mar2025 03:02:06.637] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[27Mar2025 03:02:06.643] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[27Mar2025 03:02:06.643] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[27Mar2025 03:02:07.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[27Mar2025 03:02:07.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[27Mar2025 03:02:07.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
-[27Mar2025 03:02:07.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[27Mar2025 03:02:08.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[27Mar2025 03:02:08.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[27Mar2025 03:02:08.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[27Mar2025 03:02:08.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Mar2025 03:02:08.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[27Mar2025 03:02:08.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[27Mar2025 03:02:08.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
-[27Mar2025 03:02:09.375] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Mar2025 03:02:11.597] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/assets/.mcassetsroot' uses unexpected schema
-[27Mar2025 03:02:11.598] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/data/.mcassetsroot' uses unexpected schema
-[27Mar2025 03:02:13.303] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[27Mar2025 03:02:14.745] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe unusualprehistory:trike_shield_smithing
+[27Mar2025 04:56:17.763] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[27Mar2025 04:56:17.763] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[27Mar2025 04:56:20.257] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Mundo25-03-25/servidor_minecraft/config/unusualprehistory-common.toml is not correct. Correcting
+[27Mar2025 04:56:20.258] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brachi_sound_volume was corrected from 3.0 to its default, 3.0. 
+[27Mar2025 04:56:20.258] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brachi_teen_sound_volume was corrected from 1.5 to its default, 1.5. 
+[27Mar2025 04:56:20.259] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rex_sound_volume was corrected from 0.5 to its default, 0.5. 
+[27Mar2025 04:56:20.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[27Mar2025 04:56:21.103] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[27Mar2025 04:56:21.104] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[27Mar2025 04:56:21.106] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[27Mar2025 04:56:21.107] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[27Mar2025 04:56:21.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[27Mar2025 04:56:21.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[27Mar2025 04:56:22.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[27Mar2025 04:56:22.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[27Mar2025 04:56:22.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[27Mar2025 04:56:22.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[27Mar2025 04:56:23.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[27Mar2025 04:56:23.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Mar2025 04:56:23.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[27Mar2025 04:56:23.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[27Mar2025 04:56:23.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.12 Target: 1.20.1-1.0.20
+[27Mar2025 04:56:23.798] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Mar2025 04:56:25.207] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/assets/.mcassetsroot' uses unexpected schema
+[27Mar2025 04:56:25.208] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Mundo25-03-25/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/data/.mcassetsroot' uses unexpected schema
+[27Mar2025 04:56:26.791] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[27Mar2025 04:56:28.773] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe unusualprehistory:trike_shield_smithing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23141!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -103,137 +102,76 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Mar2025 03:02:14.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[27Mar2025 03:02:14.949] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:main/tame_barina: Failed to parse 'location' field
-[27Mar2025 03:02:15.028] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2635 advancements
-[27Mar2025 03:02:15.048] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[27Mar2025 03:02:15.053] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[27Mar2025 03:02:15.056] [main/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Data loader for unusualprehistory/analyzer loaded 14 jsons
-[27Mar2025 03:02:15.058] [main/INFO] [com.peeko32213.unusualprehistory.common.data.LootFruitJsonManager/]: Data loader for unusualprehistory/trades loaded 4 jsons
-[27Mar2025 03:02:15.087] [main/INFO] [com.peeko32213.unusualprehistory.common.data.EncyclopediaJsonManager/]: Data loader for unusualprehistory/encyclopedia loaded 47 jsons
-[27Mar2025 03:02:16.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[27Mar2025 03:02:16.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27Mar2025 03:02:16.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27Mar2025 03:02:16.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Mar2025 03:02:16.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27Mar2025 03:02:16.501] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[27Mar2025 03:02:16.632] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[27Mar2025 03:02:16.634] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[27Mar2025 03:02:16.634] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[27Mar2025 03:02:16.635] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[27Mar2025 03:02:16.833] [Server thread/INFO] [Framework/]: Loading server configs...
-[27Mar2025 03:02:16.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27Mar2025 03:02:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Mar2025 03:02:24.798] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.249] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.256] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.286] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.295] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.302] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.315] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.324] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:25.771] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:26.199] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:26.743] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:27.201] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:27.698] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 03:02:28.196] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[27Mar2025 03:02:28.697] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[27Mar2025 03:02:28.998] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8303 ms
-[27Mar2025 03:02:28.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.345s)! For help, type "help"
-[27Mar2025 03:02:29.034] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[27Mar2025 03:02:29.040] [Server thread/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Registered 17 jsons with items!
-[27Mar2025 03:08:47.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RonaldPe25[/100.86.179.65:50107] logged in with entity id 169 at (-877.1938757258474, 50.0, 64.09750077382591)
-[27Mar2025 03:08:47.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
-[27Mar2025 03:08:50.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
-[27Mar2025 03:10:54.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set the weather to clear]
-[27Mar2025 03:18:03.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HaraGamiVT[/100.89.136.60:53299] logged in with entity id 2131 at (-909.2334261630616, 92.0, 73.0138468509675)
-[27Mar2025 03:18:03.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT joined the game
-[27Mar2025 03:26:56.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT tried to swim in lava
-[27Mar2025 03:27:04.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> a
-[27Mar2025 03:27:16.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> me acaba de matar un super escorpión
-[27Mar2025 03:27:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> me metio debajo de la lava
-[27Mar2025 03:27:31.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> estás en el nether?
-[27Mar2025 03:27:38.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> nop, estaba en una cueva
-[27Mar2025 03:28:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> avisas si necesitas ayuda
-[27Mar2025 03:28:35.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> una pregunta, el cadaver sigue intactato en lava?
-[27Mar2025 03:28:39.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> sip
-[27Mar2025 03:28:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> uuuff menos mal,gracias
-[27Mar2025 03:30:18.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ArKaiseR_[/100.114.250.31:56145] logged in with entity id 6634 at (160.59213761730246, -40.4375, -355.01492962821055)
-[27Mar2025 03:30:18.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ joined the game
-[27Mar2025 03:30:44.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 has made the advancement [Cover Me with Diamonds]
-[27Mar2025 03:33:17.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT was shot by Pillager
-[27Mar2025 03:33:22.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> xD
-[27Mar2025 03:33:31.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> xd
-[27Mar2025 03:45:46.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -877.500000, 50.500000, 61.500000]
-[27Mar2025 03:47:46.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> se perdió mi cadaver debajo de la obsidiana xD
-[27Mar2025 03:47:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> xD
-[27Mar2025 03:47:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> firme?
-[27Mar2025 03:48:00.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> xd
-[27Mar2025 03:48:15.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to HaraGamiVT]
-[27Mar2025 03:48:18.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> donde
-[27Mar2025 03:48:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> si, es que morí y puse agua para apagar la lava, pero morí antes de que se tapara la lava
-[27Mar2025 03:48:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> así que necesitaré un pico de diamante para sacar mi cadaver
-[27Mar2025 03:48:31.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> xddddddddd
-[27Mar2025 03:48:39.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> te presto el mio
-[27Mar2025 03:49:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> ntp, tendo de hierro
-[27Mar2025 03:49:04.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> demoraré pero sila
-[27Mar2025 03:49:07.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> xD
-[27Mar2025 03:49:14.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> bueno
-[27Mar2025 03:52:03.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
-[27Mar2025 03:53:00.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: The difficulty has been set to Hard]
-[27Mar2025 03:54:49.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Cover Me with Diamonds]
-[27Mar2025 03:55:33.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Ice Bucket Challenge]
-[27Mar2025 03:56:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> listo, lo encontré
-[27Mar2025 03:56:44.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> ya recuperé mis cosas
-[27Mar2025 03:58:47.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -877.500000, 50.500000, 61.500000]
-[27Mar2025 04:01:46.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ was blown up by Creeper
-[27Mar2025 04:01:56.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> ...
-[27Mar2025 04:02:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> eso fue mala suerte
-[27Mar2025 04:02:27.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
-[27Mar2025 04:02:33.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> cavo hacia arriva para salir y me cae un crepeer xd
-[27Mar2025 04:02:38.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> JAJAJAJ
-[27Mar2025 04:07:38.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> quieren totems? sino para quemarlos :v
-[27Mar2025 04:07:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> yoyoy
-[27Mar2025 04:07:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> yo quiero
-[27Mar2025 04:07:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> va
-[27Mar2025 04:07:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> a lo que regreso les doy
-[27Mar2025 04:07:59.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> pera que rocoga mis cosas nomas
-[27Mar2025 04:12:25.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ fell from a high place
-[27Mar2025 04:13:47.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -877.500000, 50.500000, 61.500000]
-[27Mar2025 04:17:50.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> toma
-[27Mar2025 04:18:01.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> A
-[27Mar2025 04:18:04.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> porque tantos
-[27Mar2025 04:18:12.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> si no quieres me los das xd
-[27Mar2025 04:18:22.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> donde andas arkaiser
-[27Mar2025 04:19:07.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> gracias
-[27Mar2025 04:19:11.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> me sobra este
-[27Mar2025 04:19:31.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> ty
-[27Mar2025 04:19:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
-[27Mar2025 04:23:00.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> bueno safo
-[27Mar2025 04:23:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> UwU
-[27Mar2025 04:23:03.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> ya recupere mis cosas :D
-[27Mar2025 04:23:06.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> dale
-[27Mar2025 04:23:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> gracias por los totems
-[27Mar2025 04:23:10.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT lost connection: Disconnected
-[27Mar2025 04:23:10.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT left the game
-[27Mar2025 04:24:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> tienes casa?
-[27Mar2025 04:24:38.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> nop
-[27Mar2025 04:24:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> a
-[27Mar2025 04:26:54.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> donde te entrego los totems?
-[27Mar2025 04:30:08.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> estoy en 64 69 -453
-[27Mar2025 04:30:22.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> voy
-[27Mar2025 04:31:28.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -920.500000, 75.500000, 54.500000]
-[27Mar2025 04:32:51.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to 64.500000, 69.000000, -199.500000]
-[27Mar2025 04:33:49.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> holas
-[27Mar2025 04:33:54.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> hola
-[27Mar2025 04:33:56.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> OoO
-[27Mar2025 04:34:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> grax
-[27Mar2025 04:34:06.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> uwu
-[27Mar2025 04:34:14.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> como tienes tantos xd
-[27Mar2025 04:34:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> tengo granja de esmeraldas
-[27Mar2025 04:34:59.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [The Lighthouse]
-[27Mar2025 04:38:25.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
-[27Mar2025 04:42:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[27Mar2025 04:56:28.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[27Mar2025 04:56:29.001] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:main/tame_barina: Failed to parse 'location' field
+[27Mar2025 04:56:29.075] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2635 advancements
+[27Mar2025 04:56:29.098] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[27Mar2025 04:56:29.102] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[27Mar2025 04:56:29.105] [main/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Data loader for unusualprehistory/analyzer loaded 14 jsons
+[27Mar2025 04:56:29.106] [main/INFO] [com.peeko32213.unusualprehistory.common.data.LootFruitJsonManager/]: Data loader for unusualprehistory/trades loaded 4 jsons
+[27Mar2025 04:56:29.138] [main/INFO] [com.peeko32213.unusualprehistory.common.data.EncyclopediaJsonManager/]: Data loader for unusualprehistory/encyclopedia loaded 47 jsons
+[27Mar2025 04:56:30.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[27Mar2025 04:56:30.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Mar2025 04:56:30.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Mar2025 04:56:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Mar2025 04:56:30.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Mar2025 04:56:30.469] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Mar2025 04:56:30.565] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Mar2025 04:56:30.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Mar2025 04:56:30.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Mar2025 04:56:30.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Mar2025 04:56:30.729] [Server thread/INFO] [Framework/]: Loading server configs...
+[27Mar2025 04:56:30.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[27Mar2025 04:56:34.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Mar2025 04:56:38.017] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:38.072] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:38.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:38.258] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:38.278] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:38.293] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:38.306] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:38.315] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:38.667] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:39.164] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:39.842] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:40.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:40.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:41.166] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:41.666] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Mar2025 04:56:42.164] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[27Mar2025 04:56:42.671] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[27Mar2025 04:56:42.979] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8316 ms
+[27Mar2025 04:56:42.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.397s)! For help, type "help"
+[27Mar2025 04:56:43.034] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Mar2025 04:56:43.040] [Server thread/INFO] [com.peeko32213.unusualprehistory.common.data.AnalyzerRecipeJsonManager/]: Registered 17 jsons with items!
+[27Mar2025 04:56:57.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RonaldPe25[/100.86.179.65:50108] logged in with entity id 174 at (-2327.0340526534983, 63.0, 277.6067739386266)
+[27Mar2025 04:56:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 joined the game
+[27Mar2025 04:56:59.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[27Mar2025 04:56:59.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TeemoLimon[/100.112.202.90:51713] logged in with entity id 175 at (6.8503432479864745, 79.0, -9.921824220424197)
+[27Mar2025 04:56:59.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TeemoLimon joined the game
+[27Mar2025 04:57:39.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -877.500000, 50.500000, 61.500000]
+[27Mar2025 04:57:39.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3401ms or 68 ticks behind
+[27Mar2025 04:57:57.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> meteme spectator pls xd
+[27Mar2025 04:58:02.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> me olvide que me habia muerto
+[27Mar2025 04:58:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> a
+[27Mar2025 04:58:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set TeemoLimon's game mode to Spectator Mode]
+[27Mar2025 04:58:14.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved too quickly! -8.06090262065077,0.0,-6.735384062914775
+[27Mar2025 04:58:31.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved too quickly! -8.480328085712728,0.0,-6.830227095808709
+[27Mar2025 04:58:35.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TeemoLimon moved too quickly! -8.472636285964597,0.0,-6.823784870381758
+[27Mar2025 04:58:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[27Mar2025 04:58:46.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
+[27Mar2025 04:59:27.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> yastoy
+[27Mar2025 04:59:46.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> voy
+[27Mar2025 05:00:01.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TeemoLimon> survival p
+[27Mar2025 05:00:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> ah eso
+[27Mar2025 05:00:07.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> xD
+[27Mar2025 05:00:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set TeemoLimon's game mode to Survival Mode]
+[27Mar2025 05:00:35.081] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@309306d[id=<null>,name=_ArKaiseR_,properties={},legacy=false] (/100.114.250.31:57298) lost connection: Disconnected
+[27Mar2025 05:00:40.190] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _ArKaiseR_[/100.114.250.31:57299] logged in with entity id 2394 at (-17.69999998807907, 76.0, -198.10541327376095)
+[27Mar2025 05:00:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ joined the game
+[27Mar2025 05:02:40.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> avisas para ir
+[27Mar2025 05:05:11.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -2326.500000, 63.500000, 280.500000]
+[27Mar2025 05:05:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Creative Mode]
+[27Mar2025 05:05:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> esta el mod de los aviones?
+[27Mar2025 05:05:42.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> sip
+[27Mar2025 05:05:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Set own game mode to Survival Mode]
