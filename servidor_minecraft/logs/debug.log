@@ -2455,3 +2455,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Mar2025 21:35:03.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Mine? Mine? Mine?]
 [27Mar2025 21:35:08.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Mar2025 21:35:08.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 21:40:08.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 21:40:08.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 21:40:41.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Odd Looking Rocks]
+[27Mar2025 21:40:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Unusual Prehistory]
+[27Mar2025 21:45:08.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 21:45:08.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

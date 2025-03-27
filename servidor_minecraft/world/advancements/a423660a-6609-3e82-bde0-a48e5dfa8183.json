@@ -3091,6 +3091,12 @@
     },
     "done": true
   },
+  "minecraft:main/root": {
+    "criteria": {
+      "acquired_encyclopedia": "2025-03-27 21:40:59 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-03-27 21:35:03 +0000"
@@ -3142,6 +3148,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-03-27 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/fossil": {
+    "criteria": {
+      "plant_fossil": "2025-03-27 21:40:41 +0000"
     },
     "done": true
   },

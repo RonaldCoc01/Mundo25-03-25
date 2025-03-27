@@ -190,3 +190,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Mar2025 21:31:04.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RonaldPe25 lost connection: Disconnected
 [27Mar2025 21:31:04.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RonaldPe25 left the game
 [27Mar2025 21:35:03.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Mine? Mine? Mine?]
+[27Mar2025 21:40:41.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Odd Looking Rocks]
+[27Mar2025 21:40:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _ArKaiseR_ has made the advancement [Unusual Prehistory]
