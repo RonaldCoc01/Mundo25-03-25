@@ -2103,6 +2103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-27 04:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-03-27 03:54:49 +0000"
@@ -2112,6 +2118,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-27 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-27 04:16:44 +0000"
     },
     "done": true
   },
@@ -2166,6 +2178,18 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-27 03:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-27 04:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-27 04:16:34 +0000"
     },
     "done": true
   },
