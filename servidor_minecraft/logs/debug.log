@@ -2495,3 +2495,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [27Mar2025 04:23:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HaraGamiVT> gracias por los totems
 [27Mar2025 04:23:10.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HaraGamiVT lost connection: Disconnected
 [27Mar2025 04:23:10.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaraGamiVT left the game
+[27Mar2025 04:24:33.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> tienes casa?
+[27Mar2025 04:24:38.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> nop
+[27Mar2025 04:24:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> a
+[27Mar2025 04:26:54.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> donde te entrego los totems?
+[27Mar2025 04:27:32.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 04:27:32.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 04:30:08.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_ArKaiseR_> estoy en 64 69 -453
+[27Mar2025 04:30:22.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RonaldPe25> voy
+[27Mar2025 04:31:28.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to -920.500000, 75.500000, 54.500000]
+[27Mar2025 04:32:32.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 04:32:32.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 04:32:51.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RonaldPe25: Teleported RonaldPe25 to 64.500000, 69.000000, -199.500000]
